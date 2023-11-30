@@ -1,6 +1,7 @@
 import "./login.css";
 import { AuthContext } from "../../context/authcontext";
 import { useContext, useState } from "react";
+import { Link } from "react-router-dom";
 import axios from "axios";
 import { useNavigate } from "react-router-dom";
 
@@ -63,9 +64,9 @@ const Login = () => {
             Register
           </button> */}
         </div>
-        <div className="register_redirect" style={{"marginTop": "20px"}}>
+        <div className="register_redirect" style={{ "marginTop": "20px" }}>
           <p>
-            do not have account?<a href="/auth/register">signup</a>
+            Don't have an account? <Link to="/auth/register">Sign up</Link>
           </p>
         </div>
       </div>
