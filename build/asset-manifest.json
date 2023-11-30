@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/slvarun.io/Entry-Way/static/css/main.19ed13c1.css",
-    "main.js": "/slvarun.io/Entry-Way/static/js/main.3d77afc8.js",
-    "index.html": "/slvarun.io/Entry-Way/index.html",
-    "main.19ed13c1.css.map": "/slvarun.io/Entry-Way/static/css/main.19ed13c1.css.map",
-    "main.3d77afc8.js.map": "/slvarun.io/Entry-Way/static/js/main.3d77afc8.js.map"
+    "main.css": "/static/css/main.b367939f.css",
+    "main.js": "/static/js/main.0231fb91.js",
+    "index.html": "/index.html",
+    "main.b367939f.css.map": "/static/css/main.b367939f.css.map",
+    "main.0231fb91.js.map": "/static/js/main.0231fb91.js.map"
   },
   "entrypoints": [
-    "static/css/main.19ed13c1.css",
-    "static/js/main.3d77afc8.js"
+    "static/css/main.b367939f.css",
+    "static/js/main.0231fb91.js"
   ]
 }
