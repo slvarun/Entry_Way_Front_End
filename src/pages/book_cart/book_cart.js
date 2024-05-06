@@ -111,11 +111,7 @@ const Book = () => {
             <div className="left_div">
               <div className="cards">
                 <div className="details_container">
-                  <div className="img">
-                    <div className="img-rep">
-                      <img className="img_src" src={data.photos} alt="" />
-                    </div>
-                  </div>
+              
                   <div className="m_details">
                     <div className="pay-detail fl">
                       <div>
